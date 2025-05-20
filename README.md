@@ -5,6 +5,11 @@
 
 2、搭建工具下载：[Termius](https://termius.com/download/)
 
+
+### 二、下载搭建工具 FinalShell
+FinalShell下载：<a href="https://kjfx.lanzoui.com/iqm6Uosbzha" target="_blank">点击下载>></a><br>
+备用下载（Windows MacOS Linux）：<a href="http://www.hostbuf.com/t/988.html" target="_blank">点击下载>></a>
+
 3、搭建代码：
 
     bash <(curl -s -L https://git.io/v2ray-setup.sh)
